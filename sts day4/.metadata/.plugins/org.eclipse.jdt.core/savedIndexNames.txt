@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+E:\sts day4\.metadata\.plugins\org.eclipse.jdt.core
+689595453.index
+3078549918.index

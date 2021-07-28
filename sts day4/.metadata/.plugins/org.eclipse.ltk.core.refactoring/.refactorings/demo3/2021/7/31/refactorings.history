@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.revature.Second&apos; to &apos;third&apos;&#x0D;&#x0A;- Original project: &apos;demo3&apos;&#x0D;&#x0A;- Original element: &apos;com.revature.Second&apos;&#x0D;&#x0A;- Renamed element: &apos;com.revature.third&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Second&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.revature{Second.java[Second" matchStrategy="1" name="third" qualified="false" references="true" similarDeclarations="false" stamp="1627491989118" textual="false" version="1.0"/>
+</session>

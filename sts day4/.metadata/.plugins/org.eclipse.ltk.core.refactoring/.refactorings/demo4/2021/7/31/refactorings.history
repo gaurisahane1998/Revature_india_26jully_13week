@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.revature.third&apos; to &apos;Forth&apos;&#x0D;&#x0A;- Original project: &apos;demo4&apos;&#x0D;&#x0A;- Original element: &apos;com.revature.third&apos;&#x0D;&#x0A;- Renamed element: &apos;com.revature.Forth&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update fully qualified names in &apos;*&apos; files&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;third&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.revature{third.java[third" matchStrategy="1" name="Forth" patterns="*" qualified="true" references="true" similarDeclarations="false" stamp="1627492464517" textual="false" version="1.0"/>
+</session>
